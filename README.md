@@ -18,7 +18,7 @@ cd image_detector
 Open `index.html` in your browser.
 
 ## 🔗 Live Demo
-[Add hosted link if deployed]
+[https://jothishajo39-ux.github.io/image_detector/]
 
 ## 👤 Author
 Jothisha
